@@ -20,7 +20,7 @@ Clone o repositório para a sau maquina.
 
 ## 3
 
-Crie o arquivo `index.html`.
+Dentro do repositório clonado, crie o arquivo `index.html`.
 
 Eis um exemplo do conteúdo da pagina:
 
@@ -40,10 +40,30 @@ Eis um exemplo do conteúdo da pagina:
 
 ## 4
 
-Salve o arquivo e faça o commit do mesmo. Acesse o endereço web com o nome do repositório que no caso seria <username.github.io> e pronto!
+Salve o arquivo e faça o commit do mesmo. Acesse o endereço web com o nome do repositório que no caso seria <https://username.github.io> e pronto!
 
 Voce deve ver a massagem de `OLA MUNDO` na sua tela.
 
 ## 5
 
 Daqui pra frente o que conta é sua criatividade! Crie um site utilizando HTML e CSS. Fique a vontade pra clonar esse repositório e adaptar o código fonte dessa pagina como bem entender!
+
+## Caso queira adotar esse mesmo modelo...
+
+### Clone o repositório
+
+```bash
+git clone https://github.com/blinhares/blinhares.github.io.git
+```
+
+### Copie os Arquivos Necessários
+
+Acesse a pasta do repositório clonado e copie tudo para dentro de seu repositório.
+
+Feito isso, pode apagar a pasta do meu repositório que voce clonou, eles nao serão mais necessários.
+
+### Personalizando Informações
+
+Para isso basta abrir o arquivo `Index.html` e realizar as mudancas que achar pertinente. Adicionar, remover links, etc...
+
+Tentei deixar o HTML comentado pra facilitar ao máximo.
