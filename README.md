@@ -1,6 +1,7 @@
- # blinhares.github.io
-Meu site com Git Pages
 # blinhares.github.io
+
+[Click aqui Para Ver Meus Site](https://blinhares.github.io/)
+
 Meu Site Utilizando https://pages.github.com/
 
 # Criando um Link Tree com GitHub Pages
@@ -42,3 +43,7 @@ Eis um exemplo do conteúdo da pagina:
 Salve o arquivo e faça o commit do mesmo. Acesse o endereço web com o nome do repositório que no caso seria <username.github.io> e pronto!
 
 Voce deve ver a massagem de `OLA MUNDO` na sua tela.
+
+## 5
+
+Daqui pra frente o que conta é sua criatividade! Crie um site utilizando HTML e CSS. Fique a vontade pra clonar esse repositório e adaptar o código fonte dessa pagina como bem entender!
