@@ -64,6 +64,6 @@ Feito isso, pode apagar a pasta do meu repositório que voce clonou, eles nao se
 
 ### Personalizando Informações
 
-Para isso basta abrir o arquivo `Index.html` e realizar as mudancas que achar pertinente. Adicionar, remover links, etc...
+Para isso basta abrir o arquivo `Index.html` e realizar as mudanças que achar pertinente. Adicionar, remover links, etc...
 
 Tentei deixar o HTML comentado pra facilitar ao máximo.
